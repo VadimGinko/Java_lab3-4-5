@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workers>
+    <Person>
+        <name>Bill</name>
+        <office_hours>10</office_hours>
+    </Person>
+    <Person>
+        <name>Kate</name>
+        <office_hours>8</office_hours>
+    </Person>
+    <Person>
+        <name>Vadim</name>
+        <office_hours>9</office_hours>
+    </Person>
+</Workers>

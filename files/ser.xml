@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="13.0.2" class="java.beans.XMLDecoder">
+ <object class="java.util.ArrayList">
+  <void method="add">
+   <object class="by.ginko.one.programmers.Junior" id="Junior0">
+    <void class="by.ginko.one.IWorker" method="getField">
+     <string>office_hours</string>
+     <void method="set">
+      <object idref="Junior0"/>
+      <int>3</int>
+     </void>
+    </void>
+    <void class="by.ginko.one.IWorker" method="getField">
+     <string>name</string>
+     <void method="set">
+      <object idref="Junior0"/>
+      <string>Vadim</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.ginko.one.programmers.Senior" id="Senior0">
+    <void class="by.ginko.one.IWorker" method="getField">
+     <string>office_hours</string>
+     <void method="set">
+      <object idref="Senior0"/>
+      <int>3</int>
+     </void>
+    </void>
+    <void class="by.ginko.one.IWorker" method="getField">
+     <string>name</string>
+     <void method="set">
+      <object idref="Senior0"/>
+      <string>Dima</string>
+     </void>
+    </void>
+   </object>
+  </void>
+  <void method="add">
+   <object class="by.ginko.one.other_profession.SystemAdministrator" id="SystemAdministrator0">
+    <void class="by.ginko.one.IWorker" method="getField">
+     <string>office_hours</string>
+     <void method="set">
+      <object idref="SystemAdministrator0"/>
+      <int>3</int>
+     </void>
+    </void>
+    <void class="by.ginko.one.IWorker" method="getField">
+     <string>name</string>
+     <void method="set">
+      <object idref="SystemAdministrator0"/>
+      <string>Nik</string>
+     </void>
+    </void>
+   </object>
+  </void>
+ </object>
+</java>
